@@ -3,7 +3,7 @@
 test-glitch
 ----------------------- */
 body#test-glitch {
-  background: #224;
+  background: #002;
   font-family: 'Varela', sans-serif;
 }
 body#test-glitch .glitch {
