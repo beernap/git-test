@@ -3,12 +3,12 @@
 test-glitch
 ----------------------- */
 body#test-glitch {
-  background: #333;
+  background: #224;
   font-family: 'Varela', sans-serif;
 }
 body#test-glitch .glitch {
   color: #ccc;
-  font-size: 100px;
+  font-size: 110px;
   position: relative;
   width: 400px;
   margin: 0 auto;
